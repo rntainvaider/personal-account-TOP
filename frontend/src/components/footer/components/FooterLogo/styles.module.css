@@ -1,0 +1,8 @@
+.logo__icon {
+    margin-bottom: 12px;
+}
+
+.logo__text {
+    font-size: 14px;
+    color: var(--gray-gray-6);
+}

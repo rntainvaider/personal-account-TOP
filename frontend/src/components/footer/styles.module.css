@@ -1,0 +1,14 @@
+.footer {
+    border-top: 1px solid var(--gray-gray-2);
+    background: var(--gray-gray-1);
+    padding: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer__wrapper {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1096px;
+    width: 100%;
+}

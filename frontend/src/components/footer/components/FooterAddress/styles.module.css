@@ -1,0 +1,21 @@
+.address__title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 155%;
+    color: var(--gray-gray-6);
+}
+
+.address__text {
+    font-family: var(--font3);
+    font-size: 12px;
+    line-height: 155%;
+}
+
+.address__phone {
+    margin-left: 5px;
+    color: var(--blue-blue-9);
+}
+
+.address__mail {
+    color: var(--blue-blue-9);
+}
