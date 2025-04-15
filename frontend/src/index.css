@@ -1,7 +1,8 @@
 :root {
     --gray-gray-1: #f1f3f5;
-	--gray-gray-2: #e9ecef;
-	--gray-gray-6: #868e96;
+    --gray-gray-2: #e9ecef;
+    --gray-gray-4: #ced4da;
+    --gray-gray-6: #868e96;
 
     --blue-blue-9: #1864ab;
 
@@ -20,7 +21,9 @@ body {
     margin: 0;
 }
 
-h3, p {
+h2,
+h3,
+p {
     margin: 0;
 }
 

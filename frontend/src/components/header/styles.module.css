@@ -1,4 +1,10 @@
 .header {
+    border-bottom: 1px solid var(--gray-gray-4);
+}
+
+.header__container {
+    max-width: 1920px;
+    margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -25,8 +31,4 @@
 .header__actions-button {
     cursor: pointer;
     display: flex;
-}
-
-.header__action-icon {
-
 }
